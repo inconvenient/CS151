@@ -1,0 +1,2 @@
+Player 1:Cat:0:0
+Player 2:Mouse:0:0
